@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-just another repository.
+I'm Travis, a college undergraduate at GMU, and I love to program!
